@@ -20,7 +20,7 @@ Studied several papers and textbooks on PID controllers. It seems each one is di
 
 ## In Development
 
-PID controller under development... Will occasionally study Control Theory in my spare time...  
+PID controller code UPDATE 20260512. Youtube video, [Mathematics in the Control of Robots](https://www.youtube.com/watch?v=Uk4aniKbnoI)
 
 ## Disclaimer and Terms
 
