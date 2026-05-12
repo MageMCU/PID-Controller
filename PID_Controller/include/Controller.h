@@ -165,8 +165,9 @@ namespace pid
         // Source: 
         // 7. Discrete PID Control
         // Dr James E. Pickering
-        // Mathematics in the Control of Robots 
-        // https://www.youtube.com/watch?v=Uk4aniKbnoI
+        //     Mathematics in the Control of Robots 
+        //     Instructs the minimum robot setup 
+        //     https://www.youtube.com/watch?v=Uk4aniKbnoI
         // NOT USED
 
         // Clamp integrator anti-windup output (Hi & Lo)
